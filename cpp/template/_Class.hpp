@@ -1,0 +1,17 @@
+#ifndef __GITHUB_COM__$USRNAME__$PRJNAME__$NAMESPACE__$CLASSNAME_HPP__
+#define __GITHUB_COM__$USRNAME__$PRJNAME__$NAMESPACE__$CLASSNAME_HPP__
+
+namespace $USRNAME
+{
+	namespace $PRJNAME
+	{
+		namespace $NAMESPACE
+		{
+			class $CLASSNAME
+			{
+			};
+		}
+	}
+}
+
+#endif//__GITHUB_COM__$USRNAME__$PRJNAME__$NAMESPACE__$CLASSNAME_HPP__
